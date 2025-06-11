@@ -1,9 +1,7 @@
 # 🚀 AutoDev - Agentic AI Software Engineer 👩‍💻
 
-📚 Table of Contents
+# 📚 Table of Contents
 About
-
-Demos
 
 Key Features
 
@@ -27,19 +25,12 @@ License
 
 Star History
 
-🧠 About
+# 🧠 About
 AutoDev is an intelligent, agentic AI software engineer designed to understand high-level human instructions, plan steps, perform research, and write code autonomously.
 
 Built with LLMs, reasoning engines, and web automation tools, AutoDev brings the power of autonomous software development to your fingertips—whether it’s building features, debugging, or launching full-stack applications.
 
-📝 Inspired By: Devin by Cognition AI
-AutoDev is our open-source response—aiming to match (or exceed) Devin’s performance on the SWE-bench benchmark.
-
-🎬 Demos
-Watch AutoDev in action:
-📹 Demo Video
-
-✨ Key Features
+# ✨ Key Features
 🤖 Supports Claude 3, GPT-4, Gemini, Mistral, Groq, and Local LLMs (via Ollama)
 
 🧠 Advanced reasoning and planning capabilities
@@ -59,7 +50,7 @@ Watch AutoDev in action:
 🏗️ System Architecture
 See the Architecture Documentation for a detailed breakdown of AutoDev’s internal systems and components.
 
-🚀 Getting Started
+# 🚀 Getting Started
 Requirements
 bash
 Copy
@@ -75,7 +66,7 @@ Optionally set up Ollama for local LLMs
 
 Set API keys via the UI for model-based interactions
 
-Installation
+# Installation
 Clone the repo:
 
 bash
@@ -148,9 +139,9 @@ API Endpoints
 
 Customize endpoints for each provider (OpenAI, Ollama, Google, etc.)
 
-🔐 Keep your API keys secure and avoid exposing them in public repositories.
+# 🔐 Keep your API keys secure and avoid exposing them in public repositories.
 
-🤝 Contributing
+# 🤝 Contributing
 We welcome contributors! Please read our CONTRIBUTING.md to get started. Whether it's bug fixes, new features, or documentation improvements—we appreciate your support.
 
 🛟 Support
