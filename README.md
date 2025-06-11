@@ -1,29 +1,30 @@
 # 🚀 AutoDev - Agentic AI Software Engineer 👩‍💻
 
 # 📚 Table of Contents
-About
 
-Key Features
+• About
 
-System Architecture
+• Key Features
 
-Getting Started
+• System Architecture
 
-Requirements
+• Getting Started
 
-Installation
+• Requirements
 
-Usage
+• Installation
 
-Configuration
+• Usage
 
-Contributing
+• Configuration
 
-Support
+• Contributing
 
-License
+• Support
 
-Star History
+• License
+
+• Star History
 
 # 🧠 About
 AutoDev is an intelligent, agentic AI software engineer designed to understand high-level human instructions, plan steps, perform research, and write code autonomously.
